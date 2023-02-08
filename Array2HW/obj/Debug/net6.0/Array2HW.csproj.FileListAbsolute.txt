@@ -1,0 +1,15 @@
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\Array2HW.exe
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\Array2HW.deps.json
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\Array2HW.runtimeconfig.json
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\Array2HW.dll
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\ref\Array2HW.dll
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\bin\Debug\net6.0\Array2HW.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.csproj.AssemblyReference.cache
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.AssemblyInfoInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.AssemblyInfo.cs
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.csproj.CoreCompileInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.dll
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\ref\Array2HW.dll
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Array2HW\obj\Debug\net6.0\Array2HW.genruntimeconfig.cache

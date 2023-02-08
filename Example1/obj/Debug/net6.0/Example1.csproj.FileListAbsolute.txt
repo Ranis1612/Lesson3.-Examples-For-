@@ -1,0 +1,15 @@
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.csproj.AssemblyReference.cache
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.AssemblyInfoInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.AssemblyInfo.cs
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.csproj.CoreCompileInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\Example1.exe
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\Example1.deps.json
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\Example1.runtimeconfig.json
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\Example1.dll
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\ref\Example1.dll
+D:\Ranis\GB\GB_Learn\Examples3\Example1\bin\Debug\net6.0\Example1.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.dll
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\ref\Example1.dll
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Example1\obj\Debug\net6.0\Example1.genruntimeconfig.cache

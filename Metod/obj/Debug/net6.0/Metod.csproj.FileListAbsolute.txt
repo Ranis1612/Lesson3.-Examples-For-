@@ -1,0 +1,15 @@
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\Metod.exe
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\Metod.deps.json
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\Metod.runtimeconfig.json
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\Metod.dll
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\ref\Metod.dll
+D:\Ranis\GB\GB_Learn\Examples3\Metod\bin\Debug\net6.0\Metod.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.csproj.AssemblyReference.cache
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.AssemblyInfoInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.AssemblyInfo.cs
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.csproj.CoreCompileInputs.cache
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.dll
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\ref\Metod.dll
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.pdb
+D:\Ranis\GB\GB_Learn\Examples3\Metod\obj\Debug\net6.0\Metod.genruntimeconfig.cache
